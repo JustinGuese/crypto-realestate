@@ -10,10 +10,10 @@ copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By 
 
 
 ################################### French language #####################################
-[es]
-languageName = "Es"
-languageCode = "es-CO"
-contentDir = "content/spanish"
+[de]
+languageName = "De"
+languageCode = "de-de"
+contentDir = "content/german"
 weight = 2
 home = "Accueil"
 # copyright
