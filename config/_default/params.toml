@@ -1,16 +1,16 @@
 #################### default parameters ################################
 logo = "images/logo.png"
-logo_text = "Wallet"
+logo_text = "Metaverse Real Estate"
 logo_width = "160x"
 favicon = "images/favicon.png"
 # Meta data
-description = "This is meta description"
-author = "Themefisher"
+description = "Your partner to buy real estate in the world of crypto"
+author = "DataFortress.cloud"
 image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
 # contact info
 address = "Infomation technologies building, Victoria Island, Lagos, Colombia."
-mobile = "+1-803-555-0153"
-email = "hello@info.com.ng"
+mobile = "+1 (650) 382 0775"
+email = "metaestate@datafortress.cloud"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # top hedaer
@@ -26,11 +26,11 @@ preloader = "" # use jpg, png, svg or gif format.
 # Navigation buttons
 [navigation_button_solid]
 enable = true
-label = "Sign Up"
-link = ""
+label = "Contact"
+link = "/contact"
 
 [navigation_button_bordered]
-enable = true
+enable = false
 label = "Log In"
 link = ""
 
