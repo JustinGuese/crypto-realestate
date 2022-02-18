@@ -2,11 +2,11 @@
 ############################ Banner ##################################
 banner:
   enable: true
-  title : "get a fastest loan with a smart way by seating at home "
-  subtitle : "We have collected the best offers of credit institutions and banks <br> of Colombia.  It remains to choose what suits you as fast as you."
+  title : "Your partner for real estate in the metaverse"
+  subtitle : "We support you in the world of this new digital asset. Be one of the first to access the proven real estate investments in the digital world."
   button:
     enable: true
-    label: "Apply Loan Now"
+    label: "Contact us now"
     icon: "fas fa-arrow-right"
     button_modal_target: "#applyLoan"
   image: "images/banner/banner.png"

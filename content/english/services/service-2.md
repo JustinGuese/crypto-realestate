@@ -1,5 +1,5 @@
 ---
-title : "Home Equity Loans"
+title : "Home 2 Equity Loans"
 description : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod"
 icon: "fas fa-house-user"
 draft : false
