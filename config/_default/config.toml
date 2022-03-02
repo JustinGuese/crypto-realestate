@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://demo.gethugothemes.com/wallet/"
+baseURL = "https://www.datafortress.cloud/website-hugo-crypto-realestate/"
 title = "Metaverse Real Estate"
 theme = "wallet"
 # post pagination
