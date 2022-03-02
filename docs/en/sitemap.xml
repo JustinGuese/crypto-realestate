@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://demo.gethugothemes.com/wallet/</loc>
-    <lastmod>2020-03-15T15:40:24+06:00</lastmod>
+    <lastmod>2022-02-18T15:40:24+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -15,8 +15,11 @@
                 href="https://demo.gethugothemes.com/wallet/"
                 />
   </url><url>
+    <loc>https://demo.gethugothemes.com/wallet/services/metaverse-real-estate/</loc>
+    <lastmod>2022-02-18T15:40:24+06:00</lastmod>
+  </url><url>
     <loc>https://demo.gethugothemes.com/wallet/blog/</loc>
-    <lastmod>2020-03-15T15:40:24+06:00</lastmod>
+    <lastmod>2022-02-14T15:40:24+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -29,7 +32,7 @@
                 />
   </url><url>
     <loc>https://demo.gethugothemes.com/wallet/categories/</loc>
-    <lastmod>2020-03-15T15:40:24+06:00</lastmod>
+    <lastmod>2022-02-14T15:40:24+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -39,6 +42,50 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://demo.gethugothemes.com/wallet/categories/"
+                />
+  </url><url>
+    <loc>https://demo.gethugothemes.com/wallet/tags/guide/</loc>
+    <lastmod>2022-02-14T15:40:24+06:00</lastmod>
+  </url><url>
+    <loc>https://demo.gethugothemes.com/wallet/tags/investment/</loc>
+    <lastmod>2022-02-14T15:40:24+06:00</lastmod>
+  </url><url>
+    <loc>https://demo.gethugothemes.com/wallet/categories/investment/</loc>
+    <lastmod>2022-02-14T15:40:24+06:00</lastmod>
+  </url><url>
+    <loc>https://demo.gethugothemes.com/wallet/tags/metaverse/</loc>
+    <lastmod>2022-02-14T15:40:24+06:00</lastmod>
+  </url><url>
+    <loc>https://demo.gethugothemes.com/wallet/categories/metaverse-real-estate/</loc>
+    <lastmod>2022-02-14T15:40:24+06:00</lastmod>
+  </url><url>
+    <loc>https://demo.gethugothemes.com/wallet/tags/real-estate/</loc>
+    <lastmod>2022-02-14T15:40:24+06:00</lastmod>
+  </url><url>
+    <loc>https://demo.gethugothemes.com/wallet/tags/</loc>
+    <lastmod>2022-02-14T15:40:24+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://demo.gethugothemes.com/wallet/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://demo.gethugothemes.com/wallet/tags/"
+                />
+  </url><url>
+    <loc>https://demo.gethugothemes.com/wallet/blog/post-2/</loc>
+    <lastmod>2022-02-14T15:40:24+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://demo.gethugothemes.com/wallet/de/blog/post-2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://demo.gethugothemes.com/wallet/blog/post-2/"
                 />
   </url><url>
     <loc>https://demo.gethugothemes.com/wallet/blog/elements/</loc>
@@ -91,58 +138,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://demo.gethugothemes.com/wallet/categories/photography/"
-                />
-  </url><url>
-    <loc>https://demo.gethugothemes.com/wallet/tags/</loc>
-    <lastmod>2020-03-15T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://demo.gethugothemes.com/wallet/de/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://demo.gethugothemes.com/wallet/tags/"
-                />
-  </url><url>
-    <loc>https://demo.gethugothemes.com/wallet/tags/booth/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://demo.gethugothemes.com/wallet/de/tags/booth/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://demo.gethugothemes.com/wallet/tags/booth/"
-                />
-  </url><url>
-    <loc>https://demo.gethugothemes.com/wallet/blog/post-1/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://demo.gethugothemes.com/wallet/de/blog/post-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://demo.gethugothemes.com/wallet/blog/post-1/"
-                />
-  </url><url>
-    <loc>https://demo.gethugothemes.com/wallet/blog/post-2/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://demo.gethugothemes.com/wallet/de/blog/post-2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://demo.gethugothemes.com/wallet/blog/post-2/"
                 />
   </url><url>
     <loc>https://demo.gethugothemes.com/wallet/blog/post-3/</loc>
@@ -210,6 +205,9 @@
                 href="https://demo.gethugothemes.com/wallet/tags/city/"
                 />
   </url><url>
+    <loc>https://demo.gethugothemes.com/wallet/tags/decentraland/</loc>
+    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
+  </url><url>
     <loc>https://demo.gethugothemes.com/wallet/categories/four-seasone/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
     <xhtml:link
@@ -249,32 +247,6 @@
                 href="https://demo.gethugothemes.com/wallet/categories/newyork-city/"
                 />
   </url><url>
-    <loc>https://demo.gethugothemes.com/wallet/services/service-1/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://demo.gethugothemes.com/wallet/de/services/service-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://demo.gethugothemes.com/wallet/services/service-1/"
-                />
-  </url><url>
-    <loc>https://demo.gethugothemes.com/wallet/categories/photobooth/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://demo.gethugothemes.com/wallet/de/categories/photobooth/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://demo.gethugothemes.com/wallet/categories/photobooth/"
-                />
-  </url><url>
     <loc>https://demo.gethugothemes.com/wallet/tags/seasone/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
     <xhtml:link
@@ -287,6 +259,22 @@
                 hreflang="en"
                 href="https://demo.gethugothemes.com/wallet/tags/seasone/"
                 />
+  </url><url>
+    <loc>https://demo.gethugothemes.com/wallet/blog/post-1/</loc>
+    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://demo.gethugothemes.com/wallet/de/blog/post-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://demo.gethugothemes.com/wallet/blog/post-1/"
+                />
+  </url><url>
+    <loc>https://demo.gethugothemes.com/wallet/tags/top-5/</loc>
+    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
   </url><url>
     <loc>https://demo.gethugothemes.com/wallet/tags/video/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>

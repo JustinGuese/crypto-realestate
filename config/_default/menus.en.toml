@@ -12,7 +12,12 @@ weight = 3
 [[main]]
 name = "Services"
 url = "services/"
-weight = 3
+weight = 4
+
+[[main]]
+name = "Blog"
+url = "blog/"
+weight = 5
   
 [[main]]
 name = "Contact"
@@ -20,15 +25,9 @@ url = "contact/"
 weight = 6
   
 [[main]]
-name = "Pages"
+name = "Legal"
 weight = 7
 hasChildren = true
-
-  [[main]]
-  parent = "Pages"
-  name = "Blog"
-  url = "blog/"
-  weight = 1
 
   [[main]]
   parent = "Pages"
@@ -41,12 +40,6 @@ hasChildren = true
   name = "FAQ's"
   url = "faq/"
   weight = 4
-
-  [[main]]
-  parent = "Pages"
-  name = "Elements"
-  url = "blog/elements/"
-  weight = 5
 
   [[main]]
   parent = "Pages"
