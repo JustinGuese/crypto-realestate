@@ -38,12 +38,18 @@ difference_of_us:
       estate transaction. On the same spot of time, you get your transaction completed.
 about_ourselves:
   enable: true
-  subtitle: About Ourselves
+  subtitle: Who We Are?
   title: Fast Funding & A Flexible Payment
-  description: |-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consv allis quam aliquet integer eget magna ullam corper intesager vulutate aenean nunc quis a urna morbi id vitae. Vulpuate nisl
-
-    sed morbi sit ut placerat eges aeftas et. Pellen tesque tristisque magnis augue gravida pulvinar placerat. Tellus massa pretra scelerisque leo. In volutpat arcu nunc nisl et, viverra faucisfbus
+  description: "We are your partners in crypto Real estate and introduce you to the
+    increasing popularity of cryptocurrency in the real estate world. We assist with
+    all the needed help in buying and selling real estate property in exchange for
+    cryptocurrency. With assists you with the best real estate listings available
+    with the crypto dealings with a bundle of linked facilities. \n\nBy connecting
+    with us you can gain assistance on crypto real estate investing by investing in
+    genuine deals and you can also approach us for taking up help for equity loans
+    for real estate investing. Our platform allows hassle-free dealing in crypto real
+    estate. We make the deals profitable for you whether it is selling crypto real
+    estate or buying crypto real estate.\n"
   image: images/about-us.webp
 homepage_tab:
   enable: true
