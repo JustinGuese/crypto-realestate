@@ -1,12 +1,10 @@
 ---
 banner:
   enable: true
-  title: Your Metaverse Real Estate Partner
-  subtitle: METAVERSE, which is now popular, is the talk of the town. Many individuals,
-    including cryptocurrency enthusiasts, speculators, and computer enthusiasts, believe
-    in the metaverse. We are here to help you navigate the world of this new digital
-    asset. Be among the first to have access to the internet world's proven real estate
-    investments.
+  title: Your Partner in Building Your Home of Dreams with Cryptocurrency
+  subtitle: We provide you with exceptional help In the period of this new digital
+    asset. Take advantage of the first opportunity in the digital world to interact
+    with genuine real estate investments.
   button:
     enable: true
     label: Contact us now
