@@ -15,25 +15,27 @@ services:
   enable: true
 difference_of_us:
   enable: true
-  subtitle: Difference Of Us
-  title: What Makes Us <br> Different Form Other?
+  subtitle: How We Stand Different?
+  title: What Makes Us Different Form Other?
   description: |-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consv allis quam aliquet integer eget magna ullam corper intesager peent esque urna. Ac eu fringilla intea dger egadv estas ut. Sed vulutate aenean nunc quis a urna morbi id vitae. Vulpuate nisl
+    Well, we can easily distinguish ourselves from others. The reason behind this is our expertise and knowledge in terms of crypto real estate. Secure and profitable dealings are what we are known for. Not only this we make sure that you earn a good pool of profits from your transactions.
 
-    sed morbi sit ut placerat eges aeftas et. Pellen tesque tristisque magnis augue gravida pulvinar placerat. Tellus massa pretra scelerisque leo. In volutpat arcu nunc nisl et, viverra faucisfbus egestas. In habitasse sagittis, convallis ut commodo amet, odio sagittis. Maecenas massa turpis duis felis, massa. Morbi feugiat.
+    We provide a complete solution for real estate dealing through cryptocurrency. We also assist you in gaining the equity loan, homeowners loan, and much more and put every possible effort to make your deal a successful one.
   item:
-  - title: Fast And Secure Process
+  - title: Secure and Fast Dealings
     icon: fas fa-shield-alt
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing. Portaa nulla
-      congue sed aliquam id adipiscing auue
-  - title: 'Quick Question Answers '
+    description: All are real estate crypto dealings are conducted safely as well
+      as fastly as well being operated on blockchain technology. Transactions complete
+      off in very little time with high security.
+  - title: Quick Assistance
     icon: fas fa-blender-phone
-    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing. Portaa nulla
-      congue sed aliquam id adipiscing auue '
-  - title: We Get You Your Cash Quick
+    description: Feeling any complexity or having any query or doubt regarding anything
+      related to the crypto real estate? We are just a call away. Make us a call and
+      we promise to assist you with the best information in time.
+  - title: 'Quick settlements '
     icon: fas fa-money-bill-alt
-    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing. Portaa nulla
-      congue sed aliquam id adipiscing auue '
+    description: We get you the settlement quickly on the closing of any crypto real
+      estate transaction. On the same spot of time, you get your transaction completed.
 about_ourselves:
   enable: true
   subtitle: About Ourselves
