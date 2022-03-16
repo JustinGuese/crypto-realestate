@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://www.datafortress.cloud/website-hugo-crypto-realestate/"
+baseURL = "https://yourlandincrypto.com/"
 title = "Metaverse Real Estate"
 theme = "wallet"
 # post pagination
@@ -7,7 +7,7 @@ paginate = "6"
 # post excerpt
 summaryLength = "10"
 # google analytics
-googleAnalytics = "" # example : UA-123-45
+googleAnalytics = "G-ZEXCZ5S1BZ" # example : UA-123-45
 # disqus short name
 disqusShortname = "themefisher-template" # get your shortname form here : https://disqus.com
 # disable language
