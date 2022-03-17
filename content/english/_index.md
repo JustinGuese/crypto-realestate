@@ -39,7 +39,7 @@ difference_of_us:
 about_ourselves:
   enable: true
   subtitle: Who We Are?
-  title: Fast Funding & A Flexible Payment
+  title: The Why Behind Our Process
   description: "We are your partners in crypto Real estate and introduce you to the
     increasing popularity of cryptocurrency in the real estate world. We assist with
     all the needed help in buying and selling real estate property in exchange for
