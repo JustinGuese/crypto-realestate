@@ -15,7 +15,7 @@ services:
   enable: true
 difference_of_us:
   enable: true
-  subtitle: How We Stand Different?
+  subtitle: Top Platforms For Buying Land In The Metaverse.
   title: What Makes Us Different Form Other?
   description: |-
     Well, we can easily distinguish ourselves from others. The reason behind this is our expertise and knowledge in terms of crypto real estate. Secure and profitable dealings are what we are known for. Not only this we make sure that you earn a good pool of profits from your transactions.
