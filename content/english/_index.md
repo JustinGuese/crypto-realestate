@@ -26,7 +26,7 @@ difference_of_us:
     in danger. Lastly, it's always good to know what type of land you are buying so
     that we can help you find it easier and cheaper on OpenSea or another marketplace."
   item:
-  - title: Digital Crypto Wallet
+  - title: What Is A Digital Crypto Wallet?
     icon: fas fa-shield-alt
     description: It’s a digital crypto wallet used for buying cryptocurrencies and
       tokens. Using this, you can participate in ICOs without any hassle. With the
