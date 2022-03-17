@@ -1,10 +1,10 @@
 ---
 banner:
   enable: true
-  title: Your Partner in Building Your Home of Dreams with Cryptocurrency
-  subtitle: We provide you with exceptional help In the period of this new digital
-    asset. Take advantage of the first opportunity in the digital world to interact
-    with genuine real estate investments.
+  title: The Future Of Real Estate In A Revolutionary New World.
+  subtitle: We educate and reference about buying, listing and using virtual real
+    estate. We share with you quality of content that will improve your knowledge
+    and transactions in the metaverse.
   button:
     enable: true
     label: Contact us now
