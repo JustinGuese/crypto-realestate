@@ -82,10 +82,10 @@ homepage_tab:
     image: images/illustration-1.png
 testimonials:
   enable: true
-  subtitle: Our Service Holders
-  title: Trusted By 1.2K+ Peoples
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing. egestas cursus
-    pellentesque dignissim dui, congue. Vel etiam ut
+  subtitle: Platforms For Purchasing
+  title: Trusted Platforms To Purchase Virtual Land.
+  description: There are so many third party platforms and wallets for purchasing
+    virtual land in the metaverse. Here are the best ones to start from.
   item:
   - image: images/testimonials/01.jpg
     name: Leslie Alexander
