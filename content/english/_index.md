@@ -59,29 +59,26 @@ about_ourselves:
   image: images/about-us.webp
 homepage_tab:
   enable: true
-  subtitle: Difference Of Us
-  title: Get Know The Basics Simple Pricing And Payments
+  subtitle: FAQ's
+  title: Get Know More About Buying Land In The Metaverse.
   tablist:
-  - title: How Much Can I Recive?
-    description: "Lorem ipsum dolor sit amet, consec tetasssur adipiscing elit. Tellus
-      integer proin nisl pretium,  vestibulum dictum blandit risus. Nisl commodo\n\nturpis
-      vivamus donec. Id congue vesti bualum odio dignissim at quisque viverra. Non
-      semper in sed quisque dui. Platea posuere ullamcorper id fames ut sed urna cursus
-      eget. Neque, vel "
+  - title: Is It Difficult To Buy Land In The Virtual World?
+    description: "Just like the physical world, buying virtual land is a complex process.
+      There are many factors to consider when making a decision to buy, and most importantly
+      it is always prudent to do your research before you buy. \n\nIf you truly want
+      your dream home it's important that you study the market to avoid getting badly
+      burned. "
     image: images/payment-info.webp
-  - title: How Much Does It Costs?
-    description: "Lorem ipsum dolor sit amet, consec tetasssur adipiscing elit. Tellus
-      integer proin nisl pretium,  vestibulum dictum blandit risus. Nisl commodo\n\nturpis
-      vivamus donec. Id congue vesti bualum odio dignissim at quisque viverra. Non
-      semper in sed quisque dui. Platea posuere ullamcorper id fames ut sed urna cursus
-      eget. Neque, vel "
+  - title: What Will The Metaverse Look Like In 5 years?
+    description: Augmented reality is going to grow rapidly. I can't find any data
+      on a rate of growth, but this is because it is all coming together this year.
+      Google Glass, Oculus Rift 3D, Occipital 3D via Structure Sensor and Microsoft
+      HoloLens are only the beginning in this emerging market.
     image: images/illustration-2.png
-  - title: How Do I Repay?
-    description: "Lorem ipsum dolor sit amet, consec tetasssur adipiscing elit. Tellus
-      integer proin nisl pretium,  vestibulum dictum blandit risus. Nisl commodo\n\nturpis
-      vivamus donec. Id congue vesti bualum odio dignissim at quisque viverra. Non
-      semper in sed quisque dui. Platea posuere ullamcorper id fames ut sed urna cursus
-      eget. Neque, vel "
+  - title: How Important Is Privacy?
+    description: The virtual world is filled with complicated issues, including privacy
+      concerns. Purchasing land in the Metaverse involves understanding these issues
+      and deciding whether or not it's right for your business.
     image: images/illustration-1.png
 testimonials:
   enable: true
