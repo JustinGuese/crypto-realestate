@@ -88,35 +88,34 @@ testimonials:
     virtual land in the metaverse. Here are the best ones to start from.
   item:
   - image: images/testimonials/01.jpg
-    name: Leslie Alexander
-    designation: Web Designer
-    review_text: Lorem ipsum dolor [@reamansimond](http://google.com) demina egestas
-      sit purus felis arcu. Vitae, turpisds tortr etiam faucibus ac suspendisse.
+    name: 'Decentraland '
+    designation: 3D Virtual World.
+    review_text: A virtual destination to buy and sell digital assets.
   - image: images/testimonials/02.jpg
-    name: Arlene McCoy
-    designation: Content Strategist
-    review_text: Lorem ipsum dolor [@reamansimond](http://google.com) demina egestas
-      sit purus felis arcu. Vitae, turpisds tortr etiam faucibus ac suspendisse.
+    name: OpenSea
+    designation: Non-Fungible Token Marketplace.
+    review_text: A gas free marketplace for NFTs on polygon blockchain.
   - image: images/testimonials/03.jpg
-    name: Marvin McKinney
-    designation: Video Game Writer
-    review_text: Lorem ipsum dolor [@reamansimond](http://google.com) demina egestas
-      sit purus felis arcu. Vitae, turpisds tortr etiam faucibus ac suspendisse.
+    name: MetaMask
+    designation: A Token Wallet
+    review_text: Cryptocurrency wallet with secure login for token exchange.
   - image: images/testimonials/04.jpg
-    name: Devon Lane
-    designation: Nursing Assistant
-    review_text: Lorem ipsum dolor [@reamansimond](http://google.com) demina egestas
-      sit purus felis arcu. Vitae, turpisds tortr etiam faucibus ac suspendisse.
+    name: Sandbox
+    designation: Virtual World
+    review_text: A virtual world where payers build, own and monetize their gaming
+      experiences.
   - image: images/testimonials/05.jpg
-    name: Bessie Cooper
-    designation: Video Game Writer
-    review_text: Lorem ipsum dolor [@reamansimond](http://google.com) demina egestas
-      sit purus felis arcu. Vitae, turpisds tortr etiam faucibus ac suspendisse.
+    name: Binance
+    designation: Crypto Trading Platform
+    review_text: One of the top rated cryptocurrency trading platform. It provides
+      a wallet for traders to store their crypto.
   - image: images/testimonials/06.jpg
-    name: Kathryn Murphy
-    designation: Film Critic
-    review_text: Lorem ipsum dolor [@reamansimond](http://google.com) demina egestas
-      sit purus felis arcu. Vitae, turpisds tortr etiam faucibus ac suspendisse.
+    name: Wallet Connect
+    designation: Open Source Tool
+    review_text: |-
+      A simple open source application useful open source tool allows the mobile wallet to connect to web applications that are decentralized and to use them via your smartphone.
+
+      It's a more secure method of using Dapps rather than browser- or desktop-based wallets, such as Metamask.
 faq:
   enable: true
   subtitle: Questions You Have
