@@ -36,10 +36,12 @@ difference_of_us:
     description: Decentraland is a virtual world owned and operated by the community.
       The world is powered by the Ethereum blockchain, allowing for seamless interactions
       between participants.
-  - title: 'Quick settlements '
+  - title: Verify The Metaverse Land Project
     icon: fas fa-money-bill-alt
-    description: We get you the settlement quickly on the closing of any crypto real
-      estate transaction. On the same spot of time, you get your transaction completed.
+    description: Metaverse Land uses blockchain,  a revolutionary technology that
+      brings security, transparency, and accountability to all transactions. Through
+      the use of secure digital keys, we create a safe and secure platform where all
+      transactions are verified via the public ledger-the blockchain.
 about_ourselves:
   enable: true
   subtitle: Who We Are?
