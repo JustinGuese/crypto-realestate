@@ -15,12 +15,16 @@ services:
   enable: true
 difference_of_us:
   enable: true
-  subtitle: Top Platforms For Buying Land In The Metaverse.
-  title: What Makes Us Different Form Other?
-  description: |-
-    Well, we can easily distinguish ourselves from others. The reason behind this is our expertise and knowledge in terms of crypto real estate. Secure and profitable dealings are what we are known for. Not only this we make sure that you earn a good pool of profits from your transactions.
-
-    We provide a complete solution for real estate dealing through cryptocurrency. We also assist you in gaining the equity loan, homeowners loan, and much more and put every possible effort to make your deal a successful one.
+  subtitle: Trusted Platforms
+  title: Tips For Purchasing NFT Virtual Land.
+  description: We have compiled our Top 3 recommendations for purchasing NFT land.
+    One important factor to consider when purchasing is the reputation of the company.
+    We recommend that you purchase from established and reputable companies who have
+    a long history in the industry. Another important factor is knowing how many maximum
+    NFT's can be purchased at the current time. We also don't recommend that you buy
+    from a company if they are selling only a few NFT's as this could put your investment
+    in danger. Lastly, it's always good to know what type of land you are buying so
+    that we can help you find it easier and cheaper on OpenSea or another marketplace."
   item:
   - title: Secure and Fast Dealings
     icon: fas fa-shield-alt
