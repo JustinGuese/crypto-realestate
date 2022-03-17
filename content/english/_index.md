@@ -49,13 +49,13 @@ about_ourselves:
   description: "We are your partners in crypto Real estate and introduce you to the
     increasing popularity of cryptocurrency in the real estate world. We assist with
     all the needed help in buying and selling real estate property in exchange for
-    cryptocurrency. With assists you with the best real estate listings available
-    with the crypto dealings with a bundle of linked facilities. \n\nBy connecting
-    with us you can gain assistance on crypto real estate investing by investing in
-    genuine deals and you can also approach us for taking up help for equity loans
-    for real estate investing. Our platform allows hassle-free dealing in crypto real
-    estate. We make the deals profitable for you whether it is selling crypto real
-    estate or buying crypto real estate.\n"
+    cryptocurrency. We assist you with the best real estate listings available with
+    the crypto dealings with a bundle of linked facilities. \n\nBy connecting with
+    us you can gain assistance on crypto real estate investing by investing in genuine
+    deals and you can also approach us for taking up help for equity loans for real
+    estate investing. Our platform allows hassle-free dealing in crypto real estate.
+    We make the deals profitable for you whether it is selling crypto real estate
+    or buying crypto real estate.\n"
   image: images/about-us.webp
 homepage_tab:
   enable: true
