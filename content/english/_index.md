@@ -26,16 +26,16 @@ difference_of_us:
     in danger. Lastly, it's always good to know what type of land you are buying so
     that we can help you find it easier and cheaper on OpenSea or another marketplace."
   item:
-  - title: Secure and Fast Dealings
+  - title: Digital Crypto Wallet
     icon: fas fa-shield-alt
-    description: All are real estate crypto dealings are conducted safely as well
-      as fastly as well being operated on blockchain technology. Transactions complete
-      off in very little time with high security.
-  - title: Quick Assistance
+    description: It’s a digital crypto wallet used for buying cryptocurrencies and
+      tokens. Using this, you can participate in ICOs without any hassle. With the
+      help of this wallet, one will be able to save a lot of money on fees.
+  - title: A Virtual Real Estate Platform
     icon: fas fa-blender-phone
-    description: Feeling any complexity or having any query or doubt regarding anything
-      related to the crypto real estate? We are just a call away. Make us a call and
-      we promise to assist you with the best information in time.
+    description: Decentraland is a virtual world owned and operated by the community.
+      The world is powered by the Ethereum blockchain, allowing for seamless interactions
+      between participants.
   - title: 'Quick settlements '
     icon: fas fa-money-bill-alt
     description: We get you the settlement quickly on the closing of any crypto real
