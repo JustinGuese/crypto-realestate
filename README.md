@@ -1,5 +1,4 @@
 how to build
-
-http://www.datafortress.cloud/crypto-realestate/
+https://yourlandincrypto.com/
 
 `hugo -d docs`
